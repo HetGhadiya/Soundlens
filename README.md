@@ -36,7 +36,7 @@ Flask API → Beautiful Web UI
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/soundlens.git
+git clone https://github.com/HetGhadiya/soundlens.git
 cd soundlens
 ```
 
